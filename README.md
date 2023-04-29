@@ -12,3 +12,5 @@ How to use R in Colab
 <https://colab.research.google.com/#create=true&language=r>
 ## How to Install R ?
 <https://cran.r-project.org/bin/windows/base/>
+# Important site for genome projects 
+<https://gold.jgi.doe.gov/>
